@@ -83,5 +83,5 @@ This project demonstrates the use of Excel for data exploration, aggregation, co
 
 **Garvita Gupta**
 
-Aspiring Data Analyst | SQL | Excel | Power BI | Python
+Product Analyst | SQL | Excel | Power BI | Python
 
